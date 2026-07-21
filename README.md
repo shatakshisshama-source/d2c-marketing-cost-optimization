@@ -1,13 +1,12 @@
-# D2C Organic Marketing & Cost Optimization Strategy
+# D2C Marketing Optimization & Cost Reduction Strategy
 
 ## Project Overview
-This project analyzes an operational and marketing restructuring for Binisha Fashion Boutique. The strategy shifted customer acquisition from high-overhead paid ads to organic community channels and replaced traditional photo shoots with AI-generated visuals.
+This project analyzes an operational restructuring for Binisha Fashion Boutique. The strategy optimized customer acquisition by shifting from high-overhead paid ads to a hybrid organic community model and replacing traditional photoshoots with AI-assisted visual workflows.
 
 ## Key Strategic Outcomes
-* **100% Paid Marketing Elimination:** Replaced paid ad acquisition with organic WhatsApp groups and targeted DMs.
-* **Zero Photography Expenditure:** Deployed AI-generated visuals, dropping modeling and photo shoot costs to ₹0.
-* **Operating Margin Expansion:** Increased operating margin from 12.0% in Jan 2024 to 48.0% in Jun 2024.
-* **Scalable Lead Growth:** Scaled monthly leads from 120 to 205 without incremental ad spend.
+* **70% Marketing Spend Reduction:** Cut monthly acquisition costs from ₹15,000 to ₹4,500 by establishing organic WhatsApp channels and targeted community DMs.
+* **82% Visual Overhead Reduction:** Lowered photo production expenses from ₹8,500 to ₹1,500 per month through AI visual asset generation.
+* **Margin Expansion:** Expanded operating margin from 18.0% to 32.0% (+14.0% absolute growth) over 9 months.
+* **Cost Per Lead Optimization:** Reduced average Cost Per Lead (CPL) from ₹276.47 to ₹44.44 while growing lead volume by +58.8%.
 
 ## Repository Structure
-
